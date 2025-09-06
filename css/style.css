@@ -216,6 +216,8 @@ address {
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: #4d5ae5;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .footer-container {
   padding-top: 100px;
