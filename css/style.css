@@ -21,6 +21,10 @@ ul {
   margin: 0 auto;
 }
 
+.flex {
+  display: flex;
+}
+
 .imgages-style {
   display: block;
 }
@@ -239,10 +243,10 @@ address {
   padding-bottom: 120px;
 }
 .header {
-  padding: 24px auto;
+  padding: 24px 0;
   border-bottom: 1px solid #e7e9fc;
   display: flex;
-  margin: 0 auto;
+  margin: 24 auto;
 }
 .header-menu-list {
   display: flex;
