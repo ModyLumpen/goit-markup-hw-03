@@ -26,6 +26,10 @@ ul {
   display: flex;
 }
 
+.header-navigation {
+  align-items: center;
+}
+
 .imgages-style {
   display: block;
 }
