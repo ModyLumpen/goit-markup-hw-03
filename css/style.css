@@ -12,6 +12,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  display: flex;
 }
 
 .container {
@@ -42,6 +43,7 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 
 .logo-nav span {
@@ -255,5 +257,11 @@ address {
   width: 1158px;
 }
 .header-menu-list {
-  display: flex;
+  gap: 40px;
+}
+.mr40 {
+  margin-right: 40px;
+}
+.mr0 {
+  margin-right: 0;
 }
