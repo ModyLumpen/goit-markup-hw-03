@@ -266,6 +266,10 @@ address {
   width: 1158px;
   padding: 24px 0;
 }
+.header-container {
+  justify-content: space-between;
+}
+
 .header-menu-list {
   gap: 40px;
 }
